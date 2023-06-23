@@ -1,0 +1,15 @@
+{
+  "Routine": [
+    { "Task": "Studying", "id": 1, "description": "Do self Study" },
+    {
+      "Task": "Make Project",
+      "id": 2,
+      "description": "Make the project on time"
+    },
+    {
+      "Task": "Do Coding",
+      "id": 3,
+      "description": "Atleast try to solve 1 DSA question"
+    }
+  ]
+}
